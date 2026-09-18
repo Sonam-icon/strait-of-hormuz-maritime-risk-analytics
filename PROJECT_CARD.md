@@ -19,7 +19,7 @@ Python | Pandas | NumPy | SciPy | Scikit-learn | XGBoost | SQL | Power BI
 - XGBoost classification
 - Isolation Forest anomaly detection
 - Operational risk metrics
-- Power BI-ready datasets
+- output generated
 
 ### Main ML task
 
