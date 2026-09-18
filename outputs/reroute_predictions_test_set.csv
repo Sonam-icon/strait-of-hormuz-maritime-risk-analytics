@@ -1,0 +1,847 @@
+date,vessel_name,mmsi,flag,trade_tier,commodity,destination,payment_rail,rerouted,actual_reroute,xgb_reroute_probability,xgb_prediction
+2026-05-04,Global Carrier 26,588346949,Norway,Blocked,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716645,1
+2026-05-04,Eastern Express 79,232726345,Liberia,Taxed,Crude Oil Tanker,Ningbo,Other Non-USD,No,0,0.0013826367,0
+2026-05-04,Eastern Trader 74,429104699,Israel,Blocked,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),No,0,0.012216439,0
+2026-05-04,Eastern Carrier 89,321164857,Germany,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),No,0,0.016320933,0
+2026-05-04,Eastern Star 57,512732442,Iraq,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-04,Northern Trader 12,249957637,Panama,Taxed,Crude Oil Tanker,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99146336,1
+2026-05-04,Iron Star 45,388520142,Germany,Blocked,LNG Carrier,Mumbai,N/A (Exempt/Diplomatic),No,0,0.015798561,0
+2026-05-04,Global Spirit 60,270264740,Panama,Taxed,Container Ship,Houston,Other Non-USD,No,0,0.0013890716,0
+2026-05-04,Iron Star 78,611154230,Iraq,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-04,Iron Spirit 87,342013556,Russia,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-04,Golden Titan 18,422730506,UK,Blocked,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971238,1
+2026-05-04,Global Titan 93,569164473,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-04,Global Star 22,553788671,UK,Blocked,Container Ship,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971328,1
+2026-05-04,Red Spirit 86,576445159,Turkey,Taxed,Container Ship,Singapore,Other Non-USD,No,0,0.0010905172,0
+2026-05-04,Global Trader 35,279110057,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-04,Eastern Titan 53,309305473,Turkey,Taxed,Crude Oil Tanker,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9879474,1
+2026-05-04,Ocean Express 79,648838894,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-04,Golden Star 13,598116895,Turkey,Taxed,Container Ship,Houston,Other Non-USD,No,0,0.0010905172,0
+2026-05-04,Ocean Star 21,317380369,UAE,Taxed,LNG Carrier,Houston,Other Non-USD,No,0,0.0010854639,0
+2026-05-04,Northern Leader 85,344093758,Liberia,Taxed,Bulk Carrier,Houston,Other Non-USD,No,0,0.0013890716,0
+2026-05-04,Global Carrier 50,314153005,Norway,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-04,Global Express 30,625244369,UK,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),No,0,0.015261215,0
+2026-05-04,Northern Titan 44,433987659,Norway,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970584,1
+2026-05-04,Red Titan 16,335548300,Norway,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-04,Golden Express 59,465416722,USA,Blocked,LNG Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99605584,1
+2026-05-04,Eastern Spirit 72,210456496,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-04,Northern Express 68,276703600,Turkey,Taxed,LNG Carrier,Singapore,Other Non-USD,No,0,0.0010854639,0
+2026-05-04,Ocean Carrier 41,692562960,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-04,Global Leader 58,344927134,UAE,Taxed,Container Ship,Ningbo,Other Non-USD,No,0,0.0010905172,0
+2026-05-04,Golden Carrier 64,682014990,USA,Blocked,Crude Oil Tanker,Rotterdam,N/A (Exempt/Diplomatic),No,0,0.011962547,0
+2026-05-04,Golden Express 81,555339452,Norway,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-04,Ocean Express 48,656497707,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-04,Global Trader 19,437904006,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-05,Golden Trader 72,255076321,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-05,Northern Leader 90,509060961,India,Taxed,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9882394,1
+2026-05-05,Global Spirit 24,677660874,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-05,Ocean Trader 40,289287596,UK,Blocked,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),No,0,0.015835363,0
+2026-05-05,Eastern Titan 53,309305473,Turkey,Taxed,Container Ship,Mumbai,Other Non-USD,No,0,0.0010905172,0
+2026-05-05,Golden Trader 40,416775349,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-05,Ocean Carrier 47,645283238,Marshall Islands,Taxed,LNG Carrier,Singapore,Other Non-USD,No,0,0.0013826367,0
+2026-05-05,Global Titan 99,478076450,Israel,Blocked,Container Ship,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9958442,1
+2026-05-05,Global Titan 34,487916220,Israel,Blocked,Crude Oil Tanker,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.995713,1
+2026-05-05,Golden Titan 18,422730506,UK,Blocked,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971282,1
+2026-05-05,Ocean Express 48,656497707,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-05,Eastern Express 29,697015667,UAE,Taxed,Bulk Carrier,Houston,Other Non-USD,No,0,0.0010905172,0
+2026-05-05,Golden Titan 61,376234293,Turkey,Taxed,Crude Oil Tanker,Rotterdam,Other Non-USD,No,0,0.0010854639,0
+2026-05-05,Ocean Express 79,648838894,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-05,Golden Spirit 17,322969247,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-05,Eastern Carrier 48,418009946,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-05,Eastern Spirit 94,655274738,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-05,Northern Titan 44,433987659,Norway,Blocked,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970926,1
+2026-05-05,Golden Spirit 74,366045938,UK,Blocked,Container Ship,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971775,1
+2026-05-05,Global Carrier 50,314153005,Norway,Blocked,LNG Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99711704,1
+2026-05-05,Global Titan 93,569164473,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-05,Global Leader 98,330623464,Panama,Taxed,Crude Oil Tanker,Houston,Other Non-USD,No,0,0.0013826367,0
+2026-05-05,Iron Carrier 48,528391997,Germany,Blocked,Container Ship,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-05,Eastern Spirit 80,662127581,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-05,Golden Leader 92,582167480,Norway,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),No,0,0.015729459,0
+2026-05-06,Ocean Express 65,200907996,Germany,Blocked,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-06,Eastern Carrier 13,686903727,USA,Blocked,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),No,0,0.011585234,0
+2026-05-06,Global Trader 35,279110057,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-06,Ocean Carrier 41,692562960,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-06,Northern Express 93,400478606,Israel,Blocked,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99569595,1
+2026-05-06,Eastern Star 76,302572638,Pakistan,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-06,Golden Titan 69,693675149,Iraq,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-06,Eastern Trader 98,307992155,Panama,Taxed,Container Ship,Houston,Other Non-USD,No,0,0.0013890716,0
+2026-05-06,Global Express 71,348444607,Germany,Blocked,Container Ship,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-06,Iron Express 53,259889117,Panama,Taxed,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99167085,1
+2026-05-06,Red Titan 27,473549845,Norway,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-06,Iron Express 41,343240225,Greece,Taxed,Crude Oil Tanker,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9917613,1
+2026-05-06,Ocean Leader 56,541227155,Israel,Blocked,LNG Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.995732,1
+2026-05-06,Global Leader 51,381194227,USA,Blocked,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99601704,1
+2026-05-06,Northern Star 79,227963244,Marshall Islands,Taxed,Bulk Carrier,Ningbo,Other Non-USD,No,0,0.0013890716,0
+2026-05-06,Global Spirit 24,677660874,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-06,Global Titan 99,478076450,Israel,Blocked,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99590874,1
+2026-05-06,Ocean Titan 52,620040549,UK,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971282,1
+2026-05-06,Ocean Star 86,433304641,Marshall Islands,Taxed,Bulk Carrier,Rotterdam,Other Non-USD,No,0,0.0013890716,0
+2026-05-06,Global Star 34,369408512,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-06,Red Titan 16,335548300,Norway,Blocked,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-06,Ocean Titan 58,201157156,USA,Blocked,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9965301,1
+2026-05-06,Ocean Trader 33,236787109,Pakistan,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-06,Iron Leader 38,307144846,Israel,Blocked,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),No,0,0.0124075655,0
+2026-05-06,Ocean Star 52,613991481,Iraq,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-06,Global Spirit 60,270264740,Panama,Taxed,LNG Carrier,Mumbai,Other Non-USD,No,0,0.0013826367,0
+2026-05-06,Red Leader 99,358728676,Iraq,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-06,Eastern Trader 32,472559523,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-06,Iron Express 48,651867790,Germany,Blocked,Crude Oil Tanker,Ningbo,N/A (Exempt/Diplomatic),No,0,0.0153598385,0
+2026-05-06,Northern Express 78,377784731,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-06,Red Trader 63,335437245,Pakistan,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-07,Ocean Leader 83,302047765,Turkey,Taxed,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9879871,1
+2026-05-07,Golden Trader 40,416775349,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-07,Global Trader 63,409098769,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-07,Eastern Express 79,232726345,Liberia,Taxed,LNG Carrier,Singapore,Other Non-USD,No,0,0.0013826367,0
+2026-05-07,Northern Titan 68,201742315,Turkey,Taxed,Container Ship,Rotterdam,Other Non-USD,No,0,0.0010905172,0
+2026-05-07,Iron Star 78,611154230,Iraq,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-07,Eastern Carrier 13,686903727,USA,Blocked,LNG Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99605584,1
+2026-05-07,Golden Express 81,555339452,Norway,Blocked,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971425,1
+2026-05-07,Global Titan 27,595389973,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-07,Eastern Titan 53,309305473,Turkey,Taxed,Crude Oil Tanker,Rotterdam,Other Non-USD,No,0,0.0010854639,0
+2026-05-07,Northern Leader 66,562724611,India,Taxed,Container Ship,Ningbo,Other Non-USD,No,0,0.0010905172,0
+2026-05-07,Global Leader 98,330623464,Panama,Taxed,LNG Carrier,Rotterdam,Other Non-USD,No,0,0.0013826367,0
+2026-05-07,Red Trader 49,328554982,Russia,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-07,Iron Spirit 87,342013556,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-07,Global Express 71,348444607,Germany,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),No,0,0.015729459,0
+2026-05-07,Global Spirit 24,677660874,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-07,Global Star 43,403529838,Liberia,Taxed,Bulk Carrier,Rotterdam,Other Non-USD,No,0,0.0013890716,0
+2026-05-07,Eastern Titan 18,224601779,UAE,Taxed,Bulk Carrier,Houston,Other Non-USD,No,0,0.0010905172,0
+2026-05-07,Golden Spirit 57,290081110,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-07,Iron Star 41,307030950,China,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-07,Golden Titan 65,294562809,Germany,Blocked,LNG Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99711704,1
+2026-05-07,Eastern Carrier 22,239331548,India,Taxed,Crude Oil Tanker,Ningbo,Other Non-USD,No,0,0.0010854639,0
+2026-05-07,Northern Leader 90,509060961,India,Taxed,Crude Oil Tanker,Rotterdam,Other Non-USD,No,0,0.0010854639,0
+2026-05-07,Northern Titan 44,433987659,Norway,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-07,Golden Titan 18,422730506,UK,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),No,0,0.015859436,0
+2026-05-07,Eastern Star 57,512732442,Iraq,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-08,Red Trader 49,328554982,Russia,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-08,Global Leader 85,349352498,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-08,Eastern Carrier 48,418009946,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-08,Red Leader 80,377592227,Marshall Islands,Taxed,Crude Oil Tanker,Mumbai,Other Non-USD,No,0,0.0013826367,0
+2026-05-08,Eastern Titan 53,309305473,Turkey,Taxed,Bulk Carrier,Houston,Other Non-USD,No,0,0.0010905172,0
+2026-05-08,Ocean Star 58,251924210,Marshall Islands,Taxed,Container Ship,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99167085,1
+2026-05-08,Global Carrier 50,314153005,Norway,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-08,Eastern Express 31,486764160,UAE,Taxed,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.98818517,1
+2026-05-08,Eastern Titan 18,224601779,UAE,Taxed,Bulk Carrier,Ningbo,Other Non-USD,No,0,0.0010905172,0
+2026-05-08,Northern Express 93,400478606,Israel,Blocked,Bulk Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99590874,1
+2026-05-08,Red Trader 68,353142014,UK,Blocked,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971282,1
+2026-05-08,Global Trader 63,409098769,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-08,Golden Trader 72,255076321,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-08,Ocean Leader 53,559098790,USA,Blocked,Container Ship,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.996485,1
+2026-05-08,Global Leader 33,349542787,Israel,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9956454,1
+2026-05-08,Global Titan 47,316877277,Russia,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-08,Iron Star 45,388520142,Germany,Blocked,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971425,1
+2026-05-08,Iron Express 41,343240225,Greece,Taxed,LNG Carrier,Ningbo,Tether (USDT) / Yuan,No,0,0.0015401527,0
+2026-05-08,Red Leader 99,358728676,Iraq,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-08,Iron Trader 30,366987748,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-08,Golden Titan 61,376234293,Turkey,Taxed,Bulk Carrier,Ningbo,Other Non-USD,No,0,0.0010905172,0
+2026-05-08,Ocean Express 65,200907996,Germany,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-08,Iron Carrier 48,528391997,Germany,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970584,1
+2026-05-08,Eastern Carrier 13,501316148,India,Taxed,Bulk Carrier,Rotterdam,Other Non-USD,No,0,0.0010905172,0
+2026-05-08,Golden Carrier 57,454079790,Germany,Blocked,Container Ship,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716645,1
+2026-05-08,Iron Titan 21,349748461,Israel,Blocked,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9957982,1
+2026-05-08,Eastern Spirit 80,662127581,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-08,Northern Express 40,347423381,Israel,Blocked,LNG Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.995732,1
+2026-05-08,Global Titan 27,595389973,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-08,Ocean Express 48,656497707,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-08,Eastern Titan 40,267764370,Norway,Blocked,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-08,Golden Trader 56,287324253,Marshall Islands,Taxed,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9914916,1
+2026-05-08,Eastern Carrier 13,686903727,USA,Blocked,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),No,0,0.011473285,0
+2026-05-09,Northern Express 53,629814830,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-09,Golden Carrier 57,454079790,Germany,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-09,Red Titan 56,296336946,Panama,Taxed,Container Ship,Houston,Other Non-USD,No,0,0.0013890716,0
+2026-05-09,Ocean Express 48,656497707,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-09,Iron Carrier 97,586241038,India,Taxed,Bulk Carrier,Houston,Other Non-USD,No,0,0.0010905172,0
+2026-05-09,Ocean Trader 33,236787109,Pakistan,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-09,Northern Titan 15,365494940,Marshall Islands,Taxed,LNG Carrier,Mumbai,Other Non-USD,No,0,0.0013826367,0
+2026-05-09,Eastern Trader 32,472559523,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-09,Global Trader 69,505935698,USA,Blocked,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9965301,1
+2026-05-09,Global Express 71,348444607,Germany,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-09,Eastern Titan 53,309305473,Turkey,Taxed,Crude Oil Tanker,Ningbo,Other Non-USD,No,0,0.0010854639,0
+2026-05-09,Ocean Trader 40,561204424,Panama,Taxed,LNG Carrier,Houston,Other Non-USD,No,0,0.0013826367,0
+2026-05-09,Red Spirit 36,430794441,Liberia,Taxed,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9916324,1
+2026-05-09,Golden Spirit 74,366045938,UK,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971282,1
+2026-05-09,Eastern Star 57,512732442,Iraq,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-09,Eastern Spirit 26,387372691,Pakistan,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-09,Ocean Titan 70,528175214,Pakistan,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-09,Red Carrier 69,423217093,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-09,Ocean Trader 16,662301106,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-09,Eastern Trader 98,307992155,Panama,Taxed,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9914916,1
+2026-05-09,Iron Carrier 15,386403601,UK,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971282,1
+2026-05-09,Northern Star 79,227963244,Marshall Islands,Taxed,Bulk Carrier,Singapore,Other Non-USD,No,0,0.0013890716,0
+2026-05-09,Golden Spirit 17,322969247,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-09,Golden Trader 40,416775349,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-09,Iron Express 48,651867790,Germany,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),No,0,0.015487963,0
+2026-05-09,Ocean Express 46,325892782,Turkey,Taxed,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9879871,1
+2026-05-09,Ocean Carrier 40,349506343,Norway,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-09,Eastern Express 79,232726345,Liberia,Taxed,Bulk Carrier,Houston,Other Non-USD,No,0,0.0013890716,0
+2026-05-10,Red Trader 68,353142014,UK,Blocked,Container Ship,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971775,1
+2026-05-10,Eastern Express 29,697015667,UAE,Taxed,LNG Carrier,Singapore,Other Non-USD,No,0,0.0010854639,0
+2026-05-10,Global Titan 34,487916220,Israel,Blocked,Crude Oil Tanker,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9956086,1
+2026-05-10,Eastern Carrier 50,605471762,Israel,Blocked,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99569595,1
+2026-05-10,Golden Titan 61,376234293,Turkey,Taxed,Crude Oil Tanker,Houston,Other Non-USD,No,0,0.0010854639,0
+2026-05-10,Ocean Star 98,685292957,Iraq,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-10,Golden Spirit 30,597945315,Israel,Blocked,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9958091,1
+2026-05-10,Ocean Titan 70,528175214,Pakistan,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-10,Global Trader 35,279110057,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-10,Red Trader 63,335437245,Pakistan,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-10,Global Titan 27,595389973,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-10,Iron Trader 23,617911275,UK,Blocked,Container Ship,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971775,1
+2026-05-10,Iron Express 48,651867790,Germany,Blocked,Container Ship,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-10,Red Leader 18,556609890,Liberia,Taxed,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9916324,1
+2026-05-10,Global Express 70,495173558,Greece,Taxed,Bulk Carrier,Ningbo,Tether (USDT) / Yuan,No,0,0.0015144907,0
+2026-05-10,Global Leader 33,349542787,Israel,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99590874,1
+2026-05-10,Global Leader 58,344927134,UAE,Taxed,Crude Oil Tanker,Ningbo,Other Non-USD,No,0,0.0010854639,0
+2026-05-10,Northern Titan 69,558403064,Germany,Blocked,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-10,Ocean Express 48,656497707,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-10,Golden Trader 40,416775349,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-10,Red Leader 62,450731958,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-10,Eastern Spirit 72,210456496,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-10,Ocean Spirit 12,515845836,UAE,Taxed,LNG Carrier,Singapore,Other Non-USD,No,0,0.0010854639,0
+2026-05-10,Global Carrier 20,245984845,Norway,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),No,0,0.015729459,0
+2026-05-10,Northern Titan 15,365494940,Marshall Islands,Taxed,Crude Oil Tanker,Rotterdam,Other Non-USD,No,0,0.0013826367,0
+2026-05-10,Ocean Express 78,267958709,Turkey,Taxed,LNG Carrier,Houston,Other Non-USD,No,0,0.0010854639,0
+2026-05-10,Eastern Spirit 80,662127581,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-10,Golden Titan 65,294562809,Germany,Blocked,Container Ship,Houston,N/A (Exempt/Diplomatic),No,0,0.016320933,0
+2026-05-10,Golden Leader 44,364616964,Turkey,Taxed,Crude Oil Tanker,Houston,Other Non-USD,No,0,0.0010854639,0
+2026-05-10,Ocean Spirit 32,511701739,Turkey,Taxed,Container Ship,Singapore,Other Non-USD,No,0,0.0010905172,0
+2026-05-10,Eastern Titan 53,309305473,Turkey,Taxed,Crude Oil Tanker,Singapore,Other Non-USD,No,0,0.0010854639,0
+2026-05-11,Ocean Trader 40,561204424,Panama,Taxed,Bulk Carrier,Mumbai,Other Non-USD,No,0,0.0013890716,0
+2026-05-11,Ocean Carrier 90,568535587,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-11,Global Trader 19,437904006,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-11,Iron Spirit 61,343742291,Pakistan,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-11,Eastern Titan 84,519180042,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-11,Global Leader 51,381194227,USA,Blocked,Container Ship,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.996485,1
+2026-05-11,Global Titan 59,572561470,Iraq,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-11,Iron Star 45,388520142,Germany,Blocked,Container Ship,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716645,1
+2026-05-11,Golden Express 81,555339452,Norway,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),No,0,0.016320933,0
+2026-05-11,Eastern Titan 10,238114122,Russia,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-11,Global Titan 27,595389973,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-11,Global Leader 98,330623464,Panama,Taxed,Container Ship,Ningbo,Other Non-USD,No,0,0.0013890716,0
+2026-05-11,Red Titan 56,296336946,Panama,Taxed,Container Ship,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99167085,1
+2026-05-11,Ocean Leader 53,559098790,USA,Blocked,Crude Oil Tanker,Ningbo,N/A (Exempt/Diplomatic),No,0,0.012079217,0
+2026-05-11,Eastern Trader 74,429104699,Israel,Blocked,Crude Oil Tanker,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.995713,1
+2026-05-11,Eastern Spirit 80,662127581,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-11,Global Star 34,369408512,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-11,Global Express 71,348444607,Germany,Blocked,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),No,0,0.016320933,0
+2026-05-11,Eastern Express 29,697015667,UAE,Taxed,LNG Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.98818517,1
+2026-05-11,Ocean Trader 63,641485549,Norway,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-11,Global Trader 70,633521651,UK,Blocked,Container Ship,Houston,N/A (Exempt/Diplomatic),No,0,0.01613241,0
+2026-05-11,Red Spirit 86,576445159,Turkey,Taxed,Bulk Carrier,Houston,Other Non-USD,No,0,0.0010905172,0
+2026-05-11,Iron Carrier 48,528391997,Germany,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-11,Golden Trader 72,255076321,China,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-11,Northern Titan 15,365494940,Marshall Islands,Taxed,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9914916,1
+2026-05-11,Ocean Trader 16,662301106,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-11,Red Trader 49,328554982,Russia,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-11,Ocean Leader 83,302047765,Turkey,Taxed,Crude Oil Tanker,Mumbai,Other Non-USD,No,0,0.0010854639,0
+2026-05-12,Golden Star 13,598116895,Turkey,Taxed,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9879474,1
+2026-05-12,Global Carrier 20,245984845,Norway,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-12,Global Carrier 50,314153005,Norway,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),No,0,0.016320933,0
+2026-05-12,Ocean Trader 33,236787109,Pakistan,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-12,Red Spirit 39,319681170,China,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-12,Ocean Star 98,685292957,Iraq,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-12,Northern Leader 85,344093758,Liberia,Taxed,Container Ship,Singapore,Other Non-USD,No,0,0.0013890716,0
+2026-05-12,Iron Leader 38,307144846,Israel,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),No,0,0.011845433,0
+2026-05-12,Golden Titan 61,376234293,Turkey,Taxed,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9879474,1
+2026-05-12,Eastern Carrier 94,214550303,Pakistan,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-12,Global Carrier 26,588346949,Norway,Blocked,LNG Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99711704,1
+2026-05-12,Eastern Carrier 50,605471762,Israel,Blocked,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99590874,1
+2026-05-12,Ocean Star 21,317380369,UAE,Taxed,Bulk Carrier,Ningbo,Other Non-USD,No,0,0.0010905172,0
+2026-05-12,Northern Trader 12,249957637,Panama,Taxed,Container Ship,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99167085,1
+2026-05-12,Red Titan 95,343332624,Pakistan,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-12,Northern Express 68,276703600,Turkey,Taxed,LNG Carrier,Singapore,Other Non-USD,No,0,0.0010854639,0
+2026-05-12,Golden Titan 18,422730506,UK,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971282,1
+2026-05-12,Eastern Titan 84,519180042,Russia,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-12,Iron Trader 83,404215510,Norway,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-12,Eastern Carrier 13,686903727,USA,Blocked,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99605584,1
+2026-05-12,Eastern Express 64,501134582,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-12,Golden Spirit 30,597945315,Israel,Blocked,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99569595,1
+2026-05-12,Ocean Carrier 90,568535587,Russia,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-12,Global Titan 34,487916220,Israel,Blocked,Crude Oil Tanker,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.995713,1
+2026-05-12,Northern Star 79,227963244,Marshall Islands,Taxed,Container Ship,Houston,Other Non-USD,No,0,0.0013890716,0
+2026-05-12,Global Star 14,661513240,Liberia,Taxed,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99146336,1
+2026-05-12,Global Leader 95,403552071,Greece,Taxed,Bulk Carrier,Singapore,Tether (USDT) / Yuan,No,0,0.0015144907,0
+2026-05-12,Ocean Star 80,356839665,Iraq,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-12,Ocean Leader 53,559098790,USA,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9961563,1
+2026-05-12,Global Titan 27,595389973,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-12,Global Titan 47,316877277,Russia,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-12,Eastern Trader 98,307992155,Panama,Taxed,Container Ship,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99167085,1
+2026-05-12,Iron Star 45,388520142,Germany,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),No,0,0.015729459,0
+2026-05-12,Global Titan 99,478076450,Israel,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9957982,1
+2026-05-13,Eastern Carrier 48,418009946,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-13,Iron Carrier 48,528391997,Germany,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-13,Red Spirit 86,576445159,Turkey,Taxed,Crude Oil Tanker,Mumbai,Other Non-USD,No,0,0.0010854639,0
+2026-05-13,Golden Express 79,246674928,UK,Blocked,Container Ship,Singapore,N/A (Exempt/Diplomatic),No,0,0.01613241,0
+2026-05-13,Ocean Star 21,317380369,UAE,Taxed,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.98818517,1
+2026-05-13,Iron Titan 21,349748461,Israel,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),No,0,0.012083878,0
+2026-05-13,Global Star 22,553788671,UK,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971238,1
+2026-05-13,Iron Titan 32,673206722,UK,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99701416,1
+2026-05-13,Golden Titan 69,693675149,Iraq,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-13,Golden Carrier 64,682014990,USA,Blocked,Crude Oil Tanker,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9962185,1
+2026-05-13,Golden Carrier 29,346215835,Panama,Taxed,Container Ship,Rotterdam,Other Non-USD,No,0,0.0013890716,0
+2026-05-13,Northern Titan 15,365494940,Marshall Islands,Taxed,Bulk Carrier,Mumbai,Other Non-USD,No,0,0.0013890716,0
+2026-05-13,Global Express 18,619421299,Russia,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-13,Global Titan 47,316877277,Russia,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-13,Ocean Spirit 12,515845836,UAE,Taxed,Bulk Carrier,Mumbai,Other Non-USD,No,0,0.0010905172,0
+2026-05-13,Golden Titan 18,422730506,UK,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.996967,1
+2026-05-13,Eastern Express 79,232726345,Liberia,Taxed,LNG Carrier,Houston,Other Non-USD,No,0,0.0013826367,0
+2026-05-13,Ocean Express 79,648838894,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-13,Ocean Star 84,455973885,Germany,Blocked,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),No,0,0.016070504,0
+2026-05-13,Eastern Leader 31,553717803,Pakistan,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-13,Global Express 71,348444607,Germany,Blocked,Container Ship,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-13,Ocean Star 52,613991481,Iraq,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-13,Iron Trader 15,682606488,Marshall Islands,Taxed,Bulk Carrier,Singapore,Other Non-USD,No,0,0.0013890716,0
+2026-05-13,Global Star 34,369408512,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-13,Global Titan 93,569164473,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-13,Golden Trader 50,434287182,Germany,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-13,Eastern Spirit 70,457007733,Israel,Blocked,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99590874,1
+2026-05-13,Ocean Star 86,433304641,Marshall Islands,Taxed,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9914916,1
+2026-05-13,Red Trader 81,674666203,UK,Blocked,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970784,1
+2026-05-13,Eastern Star 76,302572638,Pakistan,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-13,Red Spirit 39,319681170,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-14,Ocean Star 80,356839665,Iraq,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-14,Eastern Carrier 94,214550303,Pakistan,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-14,Eastern Trader 74,429104699,Israel,Blocked,Container Ship,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9958442,1
+2026-05-14,Red Leader 99,358728676,Iraq,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-14,Northern Express 78,377784731,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-14,Global Express 70,495173558,Greece,Taxed,Container Ship,Ningbo,Tether (USDT) / Yuan,No,0,0.0015473195,0
+2026-05-14,Ocean Spirit 12,515845836,UAE,Taxed,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.98818517,1
+2026-05-14,Golden Express 99,492563230,UK,Blocked,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970784,1
+2026-05-14,Iron Express 53,259889117,Panama,Taxed,Container Ship,Houston,Other Non-USD,No,0,0.0013890716,0
+2026-05-14,Golden Carrier 98,299401567,India,Taxed,Container Ship,Ningbo,Other Non-USD,No,0,0.0010905172,0
+2026-05-14,Ocean Express 79,648838894,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-14,Golden Titan 65,294562809,Germany,Blocked,Container Ship,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-14,Red Trader 68,353142014,UK,Blocked,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970784,1
+2026-05-14,Golden Leader 92,582167480,Norway,Blocked,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-14,Golden Spirit 17,322969247,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-14,Global Star 22,553788671,UK,Blocked,Container Ship,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971328,1
+2026-05-14,Red Titan 16,335548300,Norway,Blocked,Crude Oil Tanker,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-14,Iron Leader 38,307144846,Israel,Blocked,LNG Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.995732,1
+2026-05-14,Red Titan 27,473549845,Norway,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-14,Global Titan 81,489361229,Turkey,Taxed,Container Ship,Mumbai,Other Non-USD,No,0,0.0010905172,0
+2026-05-14,Golden Trader 56,287324253,Marshall Islands,Taxed,Container Ship,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99167085,1
+2026-05-14,Red Carrier 94,539807534,Liberia,Taxed,Crude Oil Tanker,Houston,Other Non-USD,No,0,0.0013826367,0
+2026-05-14,Golden Titan 18,422730506,UK,Blocked,Container Ship,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971775,1
+2026-05-14,Eastern Titan 18,224601779,UAE,Taxed,LNG Carrier,Ningbo,Other Non-USD,No,0,0.0010854639,0
+2026-05-14,Global Leader 85,349352498,China,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-14,Golden Carrier 57,454079790,Germany,Blocked,LNG Carrier,Mumbai,N/A (Exempt/Diplomatic),No,0,0.015798561,0
+2026-05-14,Global Express 70,441629363,Turkey,Taxed,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.98818517,1
+2026-05-14,Iron Spirit 61,343742291,Pakistan,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-14,Global Leader 98,330623464,Panama,Taxed,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9914916,1
+2026-05-14,Eastern Express 79,232726345,Liberia,Taxed,Crude Oil Tanker,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99146336,1
+2026-05-14,Eastern Titan 40,267764370,Norway,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-15,Iron Carrier 30,230536988,Germany,Blocked,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),No,0,0.01604482,0
+2026-05-15,Golden Leader 92,582167480,Norway,Blocked,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-15,Golden Star 82,317018823,Israel,Blocked,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99569595,1
+2026-05-15,Northern Leader 90,509060961,India,Taxed,Bulk Carrier,Singapore,Other Non-USD,No,0,0.0010905172,0
+2026-05-15,Eastern Titan 10,238114122,Russia,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-15,Global Spirit 24,677660874,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-15,Eastern Carrier 13,501316148,India,Taxed,LNG Carrier,Singapore,Other Non-USD,No,0,0.0010854639,0
+2026-05-15,Eastern Spirit 72,210456496,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-15,Ocean Carrier 47,645283238,Marshall Islands,Taxed,Crude Oil Tanker,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99146336,1
+2026-05-15,Northern Express 40,347423381,Israel,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.995713,1
+2026-05-15,Golden Express 99,492563230,UK,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971282,1
+2026-05-15,Ocean Spirit 12,515845836,UAE,Taxed,Bulk Carrier,Mumbai,Other Non-USD,No,0,0.0010905172,0
+2026-05-15,Red Titan 27,473549845,Norway,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-15,Eastern Titan 84,519180042,Russia,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-15,Ocean Star 84,455973885,Germany,Blocked,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971425,1
+2026-05-15,Iron Express 53,259889117,Panama,Taxed,Crude Oil Tanker,Ningbo,Other Non-USD,No,0,0.0013826367,0
+2026-05-15,Red Leader 80,377592227,Marshall Islands,Taxed,LNG Carrier,Singapore,Other Non-USD,No,0,0.0013826367,0
+2026-05-15,Red Leader 18,556609890,Liberia,Taxed,LNG Carrier,Mumbai,Other Non-USD,No,0,0.0013826367,0
+2026-05-15,Golden Express 79,246674928,UK,Blocked,Container Ship,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971775,1
+2026-05-15,Global Trader 19,437904006,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-15,Northern Express 68,276703600,Turkey,Taxed,Container Ship,Houston,Other Non-USD,No,0,0.0010905172,0
+2026-05-15,Golden Trader 72,255076321,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-15,Ocean Star 21,317380369,UAE,Taxed,Crude Oil Tanker,Ningbo,Other Non-USD,No,0,0.0010854639,0
+2026-05-15,Golden Express 59,465416722,USA,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9962185,1
+2026-05-15,Golden Express 92,252837693,Russia,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-15,Ocean Star 52,613991481,Iraq,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-15,Ocean Star 86,433304641,Marshall Islands,Taxed,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9916324,1
+2026-05-15,Global Spirit 46,284689687,Israel,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9957982,1
+2026-05-15,Global Titan 93,569164473,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-15,Red Trader 81,674666203,UK,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971238,1
+2026-05-15,Red Spirit 36,430794441,Liberia,Taxed,Crude Oil Tanker,Singapore,Other Non-USD,No,0,0.0013826367,0
+2026-05-15,Red Spirit 29,315595695,Liberia,Taxed,LNG Carrier,Mumbai,Other Non-USD,No,0,0.0013826367,0
+2026-05-15,Eastern Titan 53,309305473,Turkey,Taxed,Container Ship,Singapore,Other Non-USD,No,0,0.0010905172,0
+2026-05-15,Golden Spirit 17,322969247,Russia,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-16,Eastern Titan 10,238114122,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-16,Iron Trader 63,488954965,UAE,Taxed,Container Ship,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9882394,1
+2026-05-16,Ocean Spirit 12,515845836,UAE,Taxed,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9879871,1
+2026-05-16,Global Titan 59,572561470,Iraq,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-16,Eastern Express 64,501134582,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-16,Global Spirit 24,677660874,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-16,Global Express 71,348444607,Germany,Blocked,Crude Oil Tanker,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-16,Northern Leader 66,562724611,India,Taxed,LNG Carrier,Ningbo,Other Non-USD,No,0,0.0010854639,0
+2026-05-16,Ocean Trader 33,236787109,Pakistan,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-16,Global Leader 51,381194227,USA,Blocked,Container Ship,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.996485,1
+2026-05-16,Red Carrier 69,423217093,Russia,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-16,Iron Star 78,611154230,Iraq,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-16,Red Titan 95,343332624,Pakistan,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-16,Iron Titan 91,348880396,Germany,Blocked,Bulk Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-16,Red Trader 49,328554982,Russia,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-16,Red Leader 99,358728676,Iraq,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-16,Global Spirit 60,270264740,Panama,Taxed,Crude Oil Tanker,Rotterdam,Other Non-USD,No,0,0.0013826367,0
+2026-05-16,Eastern Express 79,232726345,Liberia,Taxed,LNG Carrier,Singapore,Other Non-USD,No,0,0.0013826367,0
+2026-05-16,Red Spirit 79,243259801,Iraq,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-16,Iron Trader 15,682606488,Marshall Islands,Taxed,Crude Oil Tanker,Mumbai,Other Non-USD,No,0,0.0013826367,0
+2026-05-16,Global Leader 95,403552071,Greece,Taxed,Container Ship,Mumbai,Tether (USDT) / Yuan,No,0,0.0015473195,0
+2026-05-16,Golden Star 13,598116895,Turkey,Taxed,Crude Oil Tanker,Houston,Other Non-USD,No,0,0.0010854639,0
+2026-05-16,Northern Express 35,240800296,UAE,Taxed,Crude Oil Tanker,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9879474,1
+2026-05-16,Global Titan 99,478076450,Israel,Blocked,Crude Oil Tanker,Ningbo,N/A (Exempt/Diplomatic),No,0,0.0115660075,0
+2026-05-16,Iron Titan 32,673206722,UK,Blocked,Crude Oil Tanker,Rotterdam,N/A (Exempt/Diplomatic),No,0,0.015261215,0
+2026-05-16,Global Titan 82,363120451,Pakistan,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-16,Eastern Carrier 13,501316148,India,Taxed,LNG Carrier,Ningbo,Other Non-USD,No,0,0.0010854639,0
+2026-05-16,Eastern Titan 40,267764370,Norway,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-16,Northern Trader 12,249957637,Panama,Taxed,LNG Carrier,Houston,Other Non-USD,No,0,0.0013826367,0
+2026-05-16,Iron Titan 21,349748461,Israel,Blocked,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99590874,1
+2026-05-16,Ocean Trader 40,289287596,UK,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971238,1
+2026-05-16,Red Titan 16,335548300,Norway,Blocked,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-16,Golden Trader 56,287324253,Marshall Islands,Taxed,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9916324,1
+2026-05-16,Ocean Express 46,325892782,Turkey,Taxed,Bulk Carrier,Ningbo,Other Non-USD,No,0,0.0010905172,0
+2026-05-17,Eastern Spirit 94,655274738,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-17,Ocean Star 98,685292957,Iraq,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-17,Iron Carrier 48,528391997,Germany,Blocked,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),No,0,0.01604482,0
+2026-05-17,Golden Titan 18,422730506,UK,Blocked,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971238,1
+2026-05-17,Golden Carrier 29,346215835,Panama,Taxed,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9914916,1
+2026-05-17,Red Trader 81,674666203,UK,Blocked,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970784,1
+2026-05-17,Northern Express 78,377784731,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-17,Eastern Star 49,509128512,USA,Blocked,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99601704,1
+2026-05-17,Ocean Express 65,200907996,Germany,Blocked,Container Ship,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971425,1
+2026-05-17,Global Star 34,369408512,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-17,Global Spirit 24,677660874,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-17,Northern Star 79,227963244,Marshall Islands,Taxed,Bulk Carrier,Rotterdam,Other Non-USD,No,0,0.0013890716,0
+2026-05-17,Ocean Trader 40,289287596,UK,Blocked,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971775,1
+2026-05-17,Ocean Spirit 48,604518879,USA,Blocked,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9965301,1
+2026-05-17,Global Titan 59,572561470,Iraq,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-17,Red Leader 62,450731958,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-17,Eastern Express 29,697015667,UAE,Taxed,Crude Oil Tanker,Ningbo,Other Non-USD,No,0,0.0010854639,0
+2026-05-17,Ocean Carrier 90,568535587,Russia,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-17,Golden Express 81,555339452,Norway,Blocked,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-17,Northern Titan 15,365494940,Marshall Islands,Taxed,Crude Oil Tanker,Mumbai,Other Non-USD,No,0,0.0013826367,0
+2026-05-17,Red Leader 99,358728676,Iraq,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-17,Golden Spirit 74,366045938,UK,Blocked,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971282,1
+2026-05-17,Iron Leader 38,307144846,Israel,Blocked,Container Ship,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99590874,1
+2026-05-17,Golden Star 13,598116895,Turkey,Taxed,Crude Oil Tanker,Ningbo,Other Non-USD,No,0,0.0010854639,0
+2026-05-17,Red Spirit 29,315595695,Liberia,Taxed,Container Ship,Ningbo,Other Non-USD,No,0,0.0013890716,0
+2026-05-17,Eastern Titan 84,519180042,Russia,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-17,Global Star 43,403529838,Liberia,Taxed,Container Ship,Houston,Other Non-USD,No,0,0.0013890716,0
+2026-05-17,Eastern Carrier 13,501316148,India,Taxed,Container Ship,Mumbai,Other Non-USD,No,0,0.0010905172,0
+2026-05-17,Eastern Carrier 50,605471762,Israel,Blocked,Container Ship,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9958091,1
+2026-05-17,Eastern Trader 32,472559523,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-17,Eastern Carrier 22,239331548,India,Taxed,LNG Carrier,Singapore,Other Non-USD,No,0,0.0010854639,0
+2026-05-17,Global Titan 27,595389973,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-17,Northern Spirit 19,205001198,Israel,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9957982,1
+2026-05-17,Northern Express 53,629814830,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-17,Golden Leader 44,364616964,Turkey,Taxed,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9879871,1
+2026-05-17,Global Titan 82,363120451,Pakistan,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-18,Global Express 30,625244369,UK,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971282,1
+2026-05-18,Northern Leader 85,344093758,Liberia,Taxed,Bulk Carrier,Rotterdam,Other Non-USD,No,0,0.0013890716,0
+2026-05-18,Northern Express 78,377784731,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-18,Golden Trader 50,434287182,Germany,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970584,1
+2026-05-18,Iron Trader 15,682606488,Marshall Islands,Taxed,Crude Oil Tanker,Mumbai,Other Non-USD,No,0,0.0013826367,0
+2026-05-18,Eastern Express 64,501134582,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-18,Eastern Titan 10,238114122,Russia,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-18,Global Spirit 24,677660874,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-18,Golden Spirit 30,597945315,Israel,Blocked,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99590874,1
+2026-05-18,Global Star 43,403529838,Liberia,Taxed,LNG Carrier,Rotterdam,Other Non-USD,No,0,0.0013826367,0
+2026-05-18,Ocean Trader 63,641485549,Norway,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970584,1
+2026-05-18,Global Leader 85,349352498,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-18,Eastern Spirit 26,387372691,Pakistan,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-18,Red Carrier 87,427170451,India,Taxed,Bulk Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9879871,1
+2026-05-18,Red Titan 16,335548300,Norway,Blocked,Crude Oil Tanker,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-18,Iron Star 41,307030950,China,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-18,Eastern Spirit 94,655274738,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-18,Golden Star 82,317018823,Israel,Blocked,Bulk Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99590874,1
+2026-05-18,Eastern Trader 77,693112443,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-18,Red Leader 18,556609890,Liberia,Taxed,Container Ship,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99167085,1
+2026-05-18,Golden Leader 78,267015535,USA,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),No,0,0.012079217,0
+2026-05-18,Global Trader 19,437904006,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-18,Global Carrier 26,588346949,Norway,Blocked,Crude Oil Tanker,Ningbo,N/A (Exempt/Diplomatic),No,0,0.0153598385,0
+2026-05-18,Global Leader 37,390495200,Turkey,Taxed,Container Ship,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9882394,1
+2026-05-18,Red Trader 81,674666203,UK,Blocked,Crude Oil Tanker,Rotterdam,N/A (Exempt/Diplomatic),No,0,0.015261215,0
+2026-05-18,Red Trader 49,328554982,Russia,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-18,Iron Spirit 61,343742291,Pakistan,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-18,Eastern Carrier 89,321164857,Germany,Blocked,Container Ship,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971425,1
+2026-05-19,Global Leader 37,390495200,Turkey,Taxed,LNG Carrier,Singapore,Other Non-USD,No,0,0.0010854639,0
+2026-05-19,Ocean Star 98,685292957,Iraq,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-19,Global Star 81,610407450,UK,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),No,0,0.015835363,0
+2026-05-19,Golden Spirit 57,290081110,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-19,Eastern Carrier 22,239331548,India,Taxed,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.98818517,1
+2026-05-19,Ocean Express 79,648838894,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-19,Iron Trader 23,617911275,UK,Blocked,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),No,0,0.015835363,0
+2026-05-19,Ocean Trader 33,236787109,Pakistan,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-19,Iron Star 58,349235943,Israel,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9957982,1
+2026-05-19,Ocean Carrier 90,568535587,Russia,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-19,Golden Express 81,555339452,Norway,Blocked,Crude Oil Tanker,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970336,1
+2026-05-19,Iron Express 41,343240225,Greece,Taxed,LNG Carrier,Rotterdam,Tether (USDT) / Yuan,No,0,0.0015401527,0
+2026-05-19,Iron Trader 30,574810735,UK,Blocked,Container Ship,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971775,1
+2026-05-19,Global Trader 63,409098769,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-19,Golden Trader 40,416775349,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-19,Global Titan 34,487916220,Israel,Blocked,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9958091,1
+2026-05-19,Eastern Spirit 72,210456496,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-19,Ocean Star 52,613991481,Iraq,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-19,Iron Express 23,405375523,Russia,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-19,Ocean Leader 56,541227155,Israel,Blocked,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99590874,1
+2026-05-19,Iron Express 48,651867790,Germany,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-19,Global Carrier 50,314153005,Norway,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970584,1
+2026-05-19,Iron Titan 32,673206722,UK,Blocked,Container Ship,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971775,1
+2026-05-19,Eastern Trader 74,429104699,Israel,Blocked,Container Ship,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9958442,1
+2026-05-19,Global Trader 69,505935698,USA,Blocked,Container Ship,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9961063,1
+2026-05-19,Global Express 18,619421299,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-19,Ocean Express 78,267958709,Turkey,Taxed,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.98818517,1
+2026-05-19,Global Leader 33,349542787,Israel,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9956454,1
+2026-05-20,Ocean Express 78,267958709,Turkey,Taxed,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9882394,1
+2026-05-20,Northern Leader 85,344093758,Liberia,Taxed,LNG Carrier,Houston,Other Non-USD,No,0,0.0013826367,0
+2026-05-20,Global Carrier 26,588346949,Norway,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-20,Eastern Spirit 70,457007733,Israel,Blocked,Crude Oil Tanker,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9956086,1
+2026-05-20,Global Trader 70,633521651,UK,Blocked,Container Ship,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971328,1
+2026-05-20,Golden Trader 56,287324253,Marshall Islands,Taxed,Bulk Carrier,Singapore,Other Non-USD,No,0,0.0013890716,0
+2026-05-20,Northern Express 93,400478606,Israel,Blocked,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99590874,1
+2026-05-20,Red Leader 18,556609890,Liberia,Taxed,LNG Carrier,Singapore,Other Non-USD,No,0,0.0013826367,0
+2026-05-20,Iron Star 41,307030950,China,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-20,Northern Leader 90,509060961,India,Taxed,Crude Oil Tanker,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9879474,1
+2026-05-20,Red Spirit 86,576445159,Turkey,Taxed,LNG Carrier,Singapore,Other Non-USD,No,0,0.0010854639,0
+2026-05-20,Golden Carrier 29,346215835,Panama,Taxed,Container Ship,Rotterdam,Other Non-USD,No,0,0.0013890716,0
+2026-05-20,Eastern Carrier 48,418009946,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-20,Ocean Titan 58,201157156,USA,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9955503,1
+2026-05-20,Ocean Leader 83,302047765,Turkey,Taxed,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9879871,1
+2026-05-20,Golden Titan 61,376234293,Turkey,Taxed,Crude Oil Tanker,Rotterdam,Other Non-USD,No,0,0.0010854639,0
+2026-05-20,Iron Spirit 87,342013556,Russia,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-20,Northern Star 79,227963244,Marshall Islands,Taxed,Bulk Carrier,Rotterdam,Other Non-USD,No,0,0.0013890716,0
+2026-05-20,Iron Titan 32,673206722,UK,Blocked,Container Ship,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971775,1
+2026-05-20,Iron Carrier 48,528391997,Germany,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-20,Iron Express 23,405375523,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-20,Global Express 18,619421299,Russia,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-20,Northern Titan 44,433987659,Norway,Blocked,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-20,Global Star 43,403529838,Liberia,Taxed,LNG Carrier,Ningbo,Other Non-USD,No,0,0.0013826367,0
+2026-05-20,Ocean Express 46,325892782,Turkey,Taxed,LNG Carrier,Rotterdam,Other Non-USD,No,0,0.0010854639,0
+2026-05-20,Global Express 70,441629363,Turkey,Taxed,Bulk Carrier,Singapore,Other Non-USD,No,0,0.0010905172,0
+2026-05-20,Ocean Express 48,656497707,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-20,Ocean Star 58,251924210,Marshall Islands,Taxed,Crude Oil Tanker,Ningbo,Other Non-USD,No,0,0.0013826367,0
+2026-05-20,Eastern Trader 74,429104699,Israel,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),No,0,0.011845433,0
+2026-05-21,Eastern Carrier 48,418009946,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-21,Global Titan 93,569164473,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-21,Global Star 81,610407450,UK,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.996967,1
+2026-05-21,Global Titan 59,572561470,Iraq,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-21,Global Titan 27,595389973,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-21,Northern Star 79,227963244,Marshall Islands,Taxed,Bulk Carrier,Mumbai,Other Non-USD,No,0,0.0013890716,0
+2026-05-21,Golden Express 59,465416722,USA,Blocked,Crude Oil Tanker,Rotterdam,N/A (Exempt/Diplomatic),No,0,0.011962547,0
+2026-05-21,Ocean Express 79,648838894,China,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-21,Golden Express 92,252837693,Russia,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-21,Eastern Carrier 94,214550303,Pakistan,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-21,Ocean Leader 56,541227155,Israel,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9957982,1
+2026-05-21,Red Carrier 94,539807534,Liberia,Taxed,Bulk Carrier,Rotterdam,Other Non-USD,No,0,0.0013890716,0
+2026-05-21,Global Leader 95,403552071,Greece,Taxed,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99178857,1
+2026-05-21,Iron Star 45,388520142,Germany,Blocked,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-21,Eastern Spirit 94,655274738,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-21,Golden Spirit 17,322969247,Russia,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-21,Global Leader 51,381194227,USA,Blocked,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99601704,1
+2026-05-21,Red Leader 80,377592227,Marshall Islands,Taxed,Bulk Carrier,Mumbai,Other Non-USD,No,0,0.0013890716,0
+2026-05-21,Ocean Trader 18,415128168,Norway,Blocked,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970926,1
+2026-05-21,Northern Leader 37,664205646,USA,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9962185,1
+2026-05-21,Golden Titan 18,422730506,UK,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99701416,1
+2026-05-21,Golden Trader 40,416775349,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-21,Eastern Titan 40,267764370,Norway,Blocked,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716645,1
+2026-05-21,Golden Spirit 57,290081110,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-21,Global Trader 63,409098769,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-22,Global Titan 93,569164473,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-22,Eastern Trader 74,429104699,Israel,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9956454,1
+2026-05-22,Golden Carrier 98,299401567,India,Taxed,Crude Oil Tanker,Ningbo,Other Non-USD,No,0,0.0010854639,0
+2026-05-22,Iron Trader 30,366987748,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-22,Eastern Carrier 89,321164857,Germany,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-22,Golden Express 59,465416722,USA,Blocked,Crude Oil Tanker,Ningbo,N/A (Exempt/Diplomatic),No,0,0.012079217,0
+2026-05-22,Eastern Leader 25,333093315,UAE,Taxed,Container Ship,Houston,Other Non-USD,No,0,0.0010905172,0
+2026-05-22,Global Express 18,619421299,Russia,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-22,Global Trader 19,437904006,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-22,Global Leader 98,330623464,Panama,Taxed,Container Ship,Rotterdam,Other Non-USD,No,0,0.0013890716,0
+2026-05-22,Red Spirit 36,559556395,Liberia,Taxed,Bulk Carrier,Houston,Other Non-USD,No,0,0.0013890716,0
+2026-05-22,Global Star 14,661513240,Liberia,Taxed,Bulk Carrier,Houston,Other Non-USD,No,0,0.0013890716,0
+2026-05-22,Golden Star 13,598116895,Turkey,Taxed,LNG Carrier,Houston,Other Non-USD,No,0,0.0010854639,0
+2026-05-22,Eastern Spirit 80,662127581,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-22,Global Leader 85,349352498,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-22,Northern Leader 66,562724611,India,Taxed,LNG Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.98818517,1
+2026-05-22,Golden Spirit 57,290081110,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-22,Global Titan 82,363120451,Pakistan,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-22,Global Star 22,553788671,UK,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),No,0,0.015859436,0
+2026-05-22,Iron Star 41,307030950,China,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-22,Ocean Spirit 32,511701739,Turkey,Taxed,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9879474,1
+2026-05-22,Northern Express 78,377784731,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-22,Golden Leader 78,267015535,USA,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9961563,1
+2026-05-22,Eastern Leader 42,686048824,Russia,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-22,Eastern Express 64,501134582,China,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-22,Iron Trader 83,404215510,Norway,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),No,0,0.016320933,0
+2026-05-22,Northern Express 35,240800296,UAE,Taxed,Bulk Carrier,Ningbo,Other Non-USD,No,0,0.0010905172,0
+2026-05-22,Red Leader 62,450731958,Russia,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-22,Golden Express 79,246674928,UK,Blocked,Bulk Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971238,1
+2026-05-22,Global Trader 69,505935698,USA,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99573356,1
+2026-05-22,Global Carrier 26,588346949,Norway,Blocked,Container Ship,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-22,Eastern Titan 84,519180042,Russia,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-22,Golden Express 81,555339452,Norway,Blocked,Container Ship,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-22,Red Titan 95,343332624,Pakistan,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-22,Eastern Spirit 26,387372691,Pakistan,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-22,Northern Spirit 19,205001198,Israel,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.995713,1
+2026-05-23,Global Star 34,369408512,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-23,Ocean Star 58,251924210,Marshall Islands,Taxed,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9914916,1
+2026-05-23,Eastern Carrier 48,418009946,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-23,Iron Express 41,343240225,Greece,Taxed,LNG Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99192446,1
+2026-05-23,Golden Carrier 57,454079790,Germany,Blocked,Crude Oil Tanker,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970336,1
+2026-05-23,Eastern Trader 74,429104699,Israel,Blocked,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9958442,1
+2026-05-23,Eastern Star 59,404880292,Israel,Blocked,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99590874,1
+2026-05-23,Global Titan 27,595389973,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-23,Global Spirit 46,284689687,Israel,Blocked,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99590874,1
+2026-05-23,Golden Leader 78,267015535,USA,Blocked,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),No,0,0.012861555,0
+2026-05-23,Global Leader 37,390495200,Turkey,Taxed,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9882394,1
+2026-05-23,Global Star 43,403529838,Liberia,Taxed,Crude Oil Tanker,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99146336,1
+2026-05-23,Global Carrier 50,314153005,Norway,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-23,Eastern Leader 42,686048824,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-23,Northern Leader 66,562724611,India,Taxed,Bulk Carrier,Mumbai,Other Non-USD,No,0,0.0010905172,0
+2026-05-23,Ocean Express 78,267958709,Turkey,Taxed,Crude Oil Tanker,Singapore,Other Non-USD,No,0,0.0010854639,0
+2026-05-23,Red Titan 27,473549845,Norway,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-23,Red Titan 16,335548300,Norway,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-23,Ocean Leader 56,541227155,Israel,Blocked,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99569595,1
+2026-05-23,Ocean Star 80,356839665,Iraq,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-23,Golden Express 99,492563230,UK,Blocked,Container Ship,Ningbo,N/A (Exempt/Diplomatic),No,0,0.01613241,0
+2026-05-23,Ocean Leader 53,559098790,USA,Blocked,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9965301,1
+2026-05-23,Northern Trader 12,249957637,Panama,Taxed,Crude Oil Tanker,Rotterdam,Other Non-USD,No,0,0.0013826367,0
+2026-05-23,Northern Express 35,240800296,UAE,Taxed,Bulk Carrier,Singapore,Other Non-USD,No,0,0.0010905172,0
+2026-05-23,Global Star 22,553788671,UK,Blocked,LNG Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99708277,1
+2026-05-23,Global Spirit 24,677660874,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-23,Global Carrier 26,588346949,Norway,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-24,Golden Carrier 57,454079790,Germany,Blocked,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-24,Ocean Trader 16,662301106,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-24,Golden Carrier 29,346215835,Panama,Taxed,Container Ship,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99167085,1
+2026-05-24,Global Trader 63,409098769,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-24,Golden Spirit 18,471635630,Liberia,Taxed,LNG Carrier,Mumbai,Other Non-USD,No,0,0.0013826367,0
+2026-05-24,Eastern Express 31,486764160,UAE,Taxed,Crude Oil Tanker,Houston,Other Non-USD,No,0,0.0010854639,0
+2026-05-24,Eastern Carrier 22,239331548,India,Taxed,Container Ship,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9882394,1
+2026-05-24,Northern Express 40,347423381,Israel,Blocked,Crude Oil Tanker,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.995713,1
+2026-05-24,Red Spirit 36,430794441,Liberia,Taxed,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9916324,1
+2026-05-24,Red Spirit 39,319681170,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-24,Golden Leader 27,665387276,Israel,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9957982,1
+2026-05-24,Northern Express 78,377784731,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-24,Ocean Trader 40,289287596,UK,Blocked,Container Ship,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971775,1
+2026-05-24,Eastern Titan 40,267764370,Norway,Blocked,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716645,1
+2026-05-24,Northern Leader 37,664205646,USA,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9961563,1
+2026-05-24,Golden Titan 18,422730506,UK,Blocked,Bulk Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971238,1
+2026-05-24,Global Carrier 20,245984845,Norway,Blocked,Container Ship,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971425,1
+2026-05-24,Global Trader 35,279110057,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-24,Ocean Titan 52,620040549,UK,Blocked,Crude Oil Tanker,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99701416,1
+2026-05-24,Golden Trader 56,287324253,Marshall Islands,Taxed,Bulk Carrier,Rotterdam,Other Non-USD,No,0,0.0013890716,0
+2026-05-24,Ocean Star 52,613991481,Iraq,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-24,Global Star 22,553788671,UK,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),No,0,0.015859436,0
+2026-05-24,Eastern Star 76,302572638,Pakistan,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-24,Red Titan 56,296336946,Panama,Taxed,Container Ship,Singapore,Other Non-USD,No,0,0.0013890716,0
+2026-05-24,Ocean Express 65,200907996,Germany,Blocked,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970926,1
+2026-05-24,Iron Carrier 97,586241038,India,Taxed,LNG Carrier,Houston,Other Non-USD,No,0,0.0010854639,0
+2026-05-24,Iron Trader 63,488954965,UAE,Taxed,Bulk Carrier,Singapore,Other Non-USD,No,0,0.0010905172,0
+2026-05-24,Golden Leader 92,582167480,Norway,Blocked,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970926,1
+2026-05-24,Global Titan 59,572561470,Iraq,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-25,Eastern Carrier 13,501316148,India,Taxed,Bulk Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9879871,1
+2026-05-25,Eastern Titan 29,400743469,Greece,Taxed,Container Ship,Mumbai,Tether (USDT) / Yuan,No,0,0.0015473195,0
+2026-05-25,Golden Leader 44,364616964,Turkey,Taxed,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9882394,1
+2026-05-25,Ocean Titan 70,528175214,Pakistan,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-25,Ocean Leader 56,541227155,Israel,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99590874,1
+2026-05-25,Iron Carrier 97,586241038,India,Taxed,Crude Oil Tanker,Ningbo,Other Non-USD,No,0,0.0010854639,0
+2026-05-25,Eastern Trader 32,472559523,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-25,Iron Spirit 61,343742291,Pakistan,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-25,Iron Express 48,651867790,Germany,Blocked,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-25,Ocean Express 48,656497707,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-25,Ocean Spirit 32,511701739,Turkey,Taxed,Crude Oil Tanker,Singapore,Other Non-USD,No,0,0.0010854639,0
+2026-05-25,Global Leader 95,403552071,Greece,Taxed,Container Ship,Houston,Tether (USDT) / Yuan,No,0,0.0015473195,0
+2026-05-25,Global Express 62,462303235,UAE,Taxed,Container Ship,Mumbai,Other Non-USD,No,0,0.0010905172,0
+2026-05-25,Red Trader 63,335437245,Pakistan,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-25,Golden Trader 50,434287182,Germany,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-25,Golden Star 82,317018823,Israel,Blocked,Bulk Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99590874,1
+2026-05-25,Eastern Leader 25,333093315,UAE,Taxed,LNG Carrier,Houston,Other Non-USD,No,0,0.0010854639,0
+2026-05-25,Eastern Spirit 22,647013948,India,Taxed,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9879871,1
+2026-05-25,Ocean Carrier 41,692562960,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-25,Global Star 34,369408512,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-25,Red Carrier 69,423217093,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-25,Red Leader 99,358728676,Iraq,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-25,Ocean Titan 52,620040549,UK,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.996967,1
+2026-05-25,Ocean Star 98,685292957,Iraq,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-25,Global Titan 34,487916220,Israel,Blocked,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9958442,1
+2026-05-25,Ocean Spirit 12,515845836,UAE,Taxed,Crude Oil Tanker,Rotterdam,Other Non-USD,No,0,0.0010854639,0
+2026-05-25,Northern Trader 12,249957637,Panama,Taxed,LNG Carrier,Singapore,Other Non-USD,No,0,0.0013826367,0
+2026-05-25,Golden Carrier 98,299401567,India,Taxed,LNG Carrier,Mumbai,Other Non-USD,No,0,0.0010854639,0
+2026-05-25,Global Titan 27,595389973,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-25,Ocean Leader 53,559098790,USA,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9962185,1
+2026-05-25,Global Titan 93,569164473,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-25,Ocean Express 79,648838894,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-25,Iron Trader 23,617911275,UK,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971282,1
+2026-05-26,Ocean Express 79,648838894,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-26,Golden Titan 65,294562809,Germany,Blocked,Container Ship,Singapore,N/A (Exempt/Diplomatic),No,0,0.016320933,0
+2026-05-26,Red Leader 18,556609890,Liberia,Taxed,Crude Oil Tanker,Rotterdam,Other Non-USD,No,0,0.0013826367,0
+2026-05-26,Global Star 34,369408512,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-26,Northern Express 35,240800296,UAE,Taxed,Container Ship,Houston,Other Non-USD,No,0,0.0010905172,0
+2026-05-26,Global Express 70,495173558,Greece,Taxed,Bulk Carrier,Mumbai,Tether (USDT) / Yuan,No,0,0.0015144907,0
+2026-05-26,Global Star 22,553788671,UK,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.996967,1
+2026-05-26,Ocean Leader 53,559098790,USA,Blocked,Container Ship,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9961063,1
+2026-05-26,Global Express 71,348444607,Germany,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-26,Golden Spirit 30,597945315,Israel,Blocked,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9958091,1
+2026-05-26,Eastern Titan 18,224601779,UAE,Taxed,Crude Oil Tanker,Rotterdam,Other Non-USD,No,0,0.0010854639,0
+2026-05-26,Ocean Express 48,656497707,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-26,Eastern Express 79,232726345,Liberia,Taxed,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99146336,1
+2026-05-26,Eastern Star 59,404880292,Israel,Blocked,Container Ship,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9958442,1
+2026-05-26,Red Titan 56,296336946,Panama,Taxed,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9914916,1
+2026-05-26,Red Titan 16,335548300,Norway,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-26,Red Spirit 36,430794441,Liberia,Taxed,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9916324,1
+2026-05-26,Red Spirit 39,319681170,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-26,Red Carrier 94,539807534,Liberia,Taxed,Crude Oil Tanker,Rotterdam,Other Non-USD,No,0,0.0013826367,0
+2026-05-26,Eastern Carrier 22,239331548,India,Taxed,LNG Carrier,Singapore,Other Non-USD,No,0,0.0010854639,0
+2026-05-26,Global Leader 98,330623464,Panama,Taxed,LNG Carrier,Rotterdam,Other Non-USD,No,0,0.0013826367,0
+2026-05-26,Northern Express 40,347423381,Israel,Blocked,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9958442,1
+2026-05-26,Global Trader 19,437904006,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-26,Iron Titan 32,673206722,UK,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99701416,1
+2026-05-26,Red Star 73,656851825,Liberia,Taxed,Bulk Carrier,Singapore,Other Non-USD,No,0,0.0013890716,0
+2026-05-26,Iron Express 41,343240225,Greece,Taxed,Bulk Carrier,Mumbai,Tether (USDT) / Yuan,No,0,0.0015144907,0
+2026-05-26,Golden Leader 92,582167480,Norway,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970584,1
+2026-05-26,Ocean Star 80,356839665,Iraq,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-26,Eastern Trader 77,693112443,China,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-26,Iron Titan 91,348880396,Germany,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970584,1
+2026-05-26,Iron Carrier 97,586241038,India,Taxed,Bulk Carrier,Ningbo,Other Non-USD,No,0,0.0010905172,0
+2026-05-26,Ocean Star 21,317380369,UAE,Taxed,Container Ship,Ningbo,Other Non-USD,No,0,0.0010905172,0
+2026-05-27,Northern Express 93,400478606,Israel,Blocked,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),No,0,0.011845433,0
+2026-05-27,Iron Carrier 15,386403601,UK,Blocked,Container Ship,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971775,1
+2026-05-27,Northern Leader 90,509060961,India,Taxed,Crude Oil Tanker,Houston,Other Non-USD,No,0,0.0010854639,0
+2026-05-27,Ocean Trader 16,662301106,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-27,Eastern Titan 29,400743469,Greece,Taxed,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99196166,1
+2026-05-27,Red Spirit 79,243259801,Iraq,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-27,Ocean Express 65,200907996,Germany,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-27,Golden Express 92,252837693,Russia,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-27,Iron Star 41,307030950,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-27,Ocean Express 48,656497707,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-27,Ocean Carrier 90,568535587,Russia,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-27,Eastern Spirit 94,655274738,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-27,Red Leader 80,377592227,Marshall Islands,Taxed,Bulk Carrier,Ningbo,Other Non-USD,No,0,0.0013890716,0
+2026-05-27,Global Titan 47,316877277,Russia,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-27,Red Titan 27,473549845,Norway,Blocked,Container Ship,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971425,1
+2026-05-27,Red Spirit 29,315595695,Liberia,Taxed,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99167085,1
+2026-05-27,Eastern Express 31,486764160,UAE,Taxed,Bulk Carrier,Singapore,Other Non-USD,No,0,0.0010905172,0
+2026-05-27,Global Express 71,348444607,Germany,Blocked,Container Ship,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971425,1
+2026-05-27,Northern Titan 44,433987659,Norway,Blocked,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-27,Red Trader 68,353142014,UK,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971282,1
+2026-05-27,Golden Spirit 74,366045938,UK,Blocked,Bulk Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971238,1
+2026-05-27,Eastern Carrier 13,501316148,India,Taxed,Container Ship,Rotterdam,Other Non-USD,No,0,0.0010905172,0
+2026-05-27,Global Titan 93,569164473,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-27,Eastern Spirit 72,210456496,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-27,Ocean Trader 63,641485549,Norway,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971041,1
+2026-05-27,Northern Express 35,240800296,UAE,Taxed,Container Ship,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9882394,1
+2026-05-27,Golden Star 13,598116895,Turkey,Taxed,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.98818517,1
+2026-05-27,Ocean Star 58,251924210,Marshall Islands,Taxed,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9916324,1
+2026-05-27,Golden Spirit 88,633898650,Norway,Blocked,Container Ship,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-27,Iron Express 41,343240225,Greece,Taxed,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99192446,1
+2026-05-27,Ocean Star 84,455973885,Germany,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970584,1
+2026-05-27,Red Spirit 86,576445159,Turkey,Taxed,Crude Oil Tanker,Singapore,Other Non-USD,No,0,0.0010854639,0
+2026-05-27,Eastern Titan 53,309305473,Turkey,Taxed,Crude Oil Tanker,Rotterdam,Other Non-USD,No,0,0.0010854639,0
+2026-05-28,Global Star 43,403529838,Liberia,Taxed,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9916324,1
+2026-05-28,Iron Star 41,307030950,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-28,Northern Express 53,629814830,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-28,Golden Trader 56,287324253,Marshall Islands,Taxed,Container Ship,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99167085,1
+2026-05-28,Global Carrier 26,588346949,Norway,Blocked,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-28,Ocean Leader 83,302047765,Turkey,Taxed,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.98818517,1
+2026-05-28,Ocean Express 64,645252867,Turkey,Taxed,Bulk Carrier,Singapore,Other Non-USD,No,0,0.0010905172,0
+2026-05-28,Eastern Spirit 22,647013948,India,Taxed,Container Ship,Ningbo,Other Non-USD,No,0,0.0010905172,0
+2026-05-28,Global Trader 69,505935698,USA,Blocked,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9965301,1
+2026-05-28,Red Spirit 39,319681170,China,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-28,Golden Carrier 29,346215835,Panama,Taxed,LNG Carrier,Houston,Other Non-USD,No,0,0.0013826367,0
+2026-05-28,Eastern Spirit 80,662127581,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-28,Global Leader 37,390495200,Turkey,Taxed,Container Ship,Houston,Other Non-USD,No,0,0.0010905172,0
+2026-05-28,Ocean Leader 53,559098790,USA,Blocked,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),No,0,0.013153777,0
+2026-05-28,Global Titan 59,572561470,Iraq,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-28,Iron Express 48,651867790,Germany,Blocked,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970926,1
+2026-05-28,Global Spirit 24,677660874,Iran,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-28,Red Leader 62,450731958,Russia,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-28,Golden Leader 78,267015535,USA,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9955503,1
+2026-05-28,Golden Leader 27,665387276,Israel,Blocked,LNG Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.995732,1
+2026-05-28,Eastern Trader 98,307992155,Panama,Taxed,Crude Oil Tanker,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99146336,1
+2026-05-28,Eastern Leader 42,686048824,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-28,Ocean Carrier 90,568535587,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-28,Golden Trader 72,255076321,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-28,Ocean Trader 33,236787109,Pakistan,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-28,Eastern Titan 29,400743469,Greece,Taxed,Crude Oil Tanker,Rotterdam,Tether (USDT) / Yuan,No,0,0.0015401527,0
+2026-05-28,Ocean Spirit 32,511701739,Turkey,Taxed,Bulk Carrier,Ningbo,Other Non-USD,No,0,0.0010905172,0
+2026-05-28,Red Carrier 87,427170451,India,Taxed,Bulk Carrier,Houston,Other Non-USD,No,0,0.0010905172,0
+2026-05-28,Global Express 41,558057151,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-28,Red Carrier 69,423217093,Russia,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-29,Ocean Express 46,325892782,Turkey,Taxed,Container Ship,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9882394,1
+2026-05-29,Northern Express 93,400478606,Israel,Blocked,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9957982,1
+2026-05-29,Global Carrier 20,245984845,Norway,Blocked,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-29,Iron Trader 30,574810735,UK,Blocked,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),No,0,0.015859436,0
+2026-05-29,Ocean Titan 70,528175214,Pakistan,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-29,Northern Titan 69,558403064,Germany,Blocked,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971425,1
+2026-05-29,Eastern Star 59,404880292,Israel,Blocked,LNG Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.995732,1
+2026-05-29,Eastern Express 31,486764160,UAE,Taxed,LNG Carrier,Mumbai,Other Non-USD,No,0,0.0010854639,0
+2026-05-29,Ocean Express 79,648838894,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-29,Golden Leader 44,364616964,Turkey,Taxed,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9879474,1
+2026-05-29,Eastern Spirit 94,655274738,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-29,Golden Leader 27,665387276,Israel,Blocked,Container Ship,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99590874,1
+2026-05-29,Golden Titan 69,693675149,Iraq,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-29,Golden Carrier 29,346215835,Panama,Taxed,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9914916,1
+2026-05-29,Ocean Star 86,433304641,Marshall Islands,Taxed,LNG Carrier,Houston,Other Non-USD,No,0,0.0013826367,0
+2026-05-29,Ocean Carrier 40,349506343,Norway,Blocked,LNG Carrier,Rotterdam,N/A (Exempt/Diplomatic),No,0,0.01604482,0
+2026-05-29,Global Trader 69,505935698,USA,Blocked,Container Ship,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.996485,1
+2026-05-29,Golden Carrier 98,299401567,India,Taxed,Container Ship,Mumbai,Other Non-USD,No,0,0.0010905172,0
+2026-05-29,Global Leader 33,349542787,Israel,Blocked,Container Ship,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9958091,1
+2026-05-29,Global Express 30,625244369,UK,Blocked,Container Ship,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971775,1
+2026-05-29,Golden Carrier 57,454079790,Germany,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99716187,1
+2026-05-29,Global Leader 98,330623464,Panama,Taxed,Container Ship,Rotterdam,Other Non-USD,No,0,0.0013890716,0
+2026-05-29,Golden Carrier 64,682014990,USA,Blocked,Container Ship,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.996485,1
+2026-05-30,Iron Titan 91,348880396,Germany,Blocked,Container Ship,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-30,Iron Express 23,405375523,Russia,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021235237,0
+2026-05-30,Ocean Trader 40,561204424,Panama,Taxed,Container Ship,Ningbo,Other Non-USD,No,0,0.0013890716,0
+2026-05-30,Global Express 62,462303235,UAE,Taxed,Bulk Carrier,Singapore,Other Non-USD,No,0,0.0010905172,0
+2026-05-30,Golden Carrier 64,682014990,USA,Blocked,Crude Oil Tanker,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99618125,1
+2026-05-30,Red Leader 99,358728676,Iraq,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-30,Golden Express 59,465416722,USA,Blocked,Bulk Carrier,Houston,N/A (Exempt/Diplomatic),No,0,0.013153777,0
+2026-05-30,Ocean Trader 40,289287596,UK,Blocked,Container Ship,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971328,1
+2026-05-30,Iron Spirit 61,343742291,Pakistan,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-30,Global Trader 63,409098769,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-30,Ocean Star 21,317380369,UAE,Taxed,Bulk Carrier,Rotterdam,Other Non-USD,No,0,0.0010905172,0
+2026-05-30,Eastern Star 76,302572638,Pakistan,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-30,Global Express 71,348444607,Germany,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),No,0,0.015729459,0
+2026-05-30,Iron Star 45,388520142,Germany,Blocked,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970584,1
+2026-05-30,Golden Express 92,252837693,Russia,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-30,Northern Titan 68,201742315,Turkey,Taxed,Crude Oil Tanker,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9879474,1
+2026-05-30,Eastern Star 57,512732442,Iraq,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-30,Global Spirit 60,270264740,Panama,Taxed,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9914916,1
+2026-05-30,Golden Trader 72,255076321,China,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-30,Iron Carrier 15,386403601,UK,Blocked,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971282,1
+2026-05-30,Northern Express 68,276703600,Turkey,Taxed,Bulk Carrier,Houston,Other Non-USD,No,0,0.0010905172,0
+2026-05-30,Eastern Carrier 13,501316148,India,Taxed,Bulk Carrier,Rotterdam,Other Non-USD,No,0,0.0010905172,0
+2026-05-30,Global Titan 82,363120451,Pakistan,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-30,Northern Leader 85,344093758,Liberia,Taxed,Container Ship,Singapore,Other Non-USD,No,0,0.0013890716,0
+2026-05-30,Eastern Spirit 26,387372691,Pakistan,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-30,Iron Star 78,611154230,Iraq,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-30,Eastern Carrier 48,418009946,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-30,Northern Titan 44,433987659,Norway,Blocked,Bulk Carrier,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-30,Eastern Carrier 13,686903727,USA,Blocked,Container Ship,Rotterdam,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9964504,1
+2026-05-31,Northern Express 93,400478606,Israel,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9957982,1
+2026-05-31,Eastern Star 63,552924530,Germany,Blocked,Container Ship,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99721044,1
+2026-05-31,Global Leader 58,344927134,UAE,Taxed,Bulk Carrier,Singapore,Other Non-USD,No,0,0.0010905172,0
+2026-05-31,Ocean Trader 16,662301106,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-31,Global Express 70,495173558,Greece,Taxed,LNG Carrier,Mumbai,Tether (USDT) / Yuan,No,0,0.0015401527,0
+2026-05-31,Ocean Trader 33,236787109,Pakistan,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-31,Global Express 30,625244369,UK,Blocked,LNG Carrier,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971282,1
+2026-05-31,Global Express 62,462303235,UAE,Taxed,Bulk Carrier,Rotterdam,Other Non-USD,No,0,0.0010905172,0
+2026-05-31,Eastern Trader 77,693112443,China,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-31,Global Titan 93,569164473,China,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-31,Eastern Spirit 72,210456496,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-31,Global Trader 70,633521651,UK,Blocked,LNG Carrier,Houston,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9971282,1
+2026-05-31,Eastern Trader 74,429104699,Israel,Blocked,Bulk Carrier,Ningbo,N/A (Exempt/Diplomatic),No,0,0.012115044,0
+2026-05-31,Golden Spirit 57,290081110,Iran,Privileged,LNG Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-31,Golden Express 99,492563230,UK,Blocked,LNG Carrier,Ningbo,N/A (Exempt/Diplomatic),No,0,0.015859436,0
+2026-05-31,Global Spirit 60,270264740,Panama,Taxed,Crude Oil Tanker,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.99146336,1
+2026-05-31,Ocean Spirit 32,511701739,Turkey,Taxed,Container Ship,Mumbai,Other Non-USD,No,0,0.0010905172,0
+2026-05-31,Red Star 73,656851825,Liberia,Taxed,LNG Carrier,Houston,Other Non-USD,No,0,0.0013826367,0
+2026-05-31,Red Spirit 79,243259801,Iraq,Privileged,Crude Oil Tanker,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0014996614,0
+2026-05-31,Northern Titan 68,201742315,Turkey,Taxed,Bulk Carrier,Ningbo,Other Non-USD,No,0,0.0010905172,0
+2026-05-31,Red Carrier 94,539807534,Liberia,Taxed,LNG Carrier,Houston,Other Non-USD,No,0,0.0013826367,0
+2026-05-31,Golden Spirit 30,597945315,Israel,Blocked,Crude Oil Tanker,Singapore,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.995713,1
+2026-05-31,Ocean Star 86,433304641,Marshall Islands,Taxed,LNG Carrier,Singapore,Other Non-USD,No,0,0.0013826367,0
+2026-05-31,Eastern Spirit 94,655274738,Iran,Privileged,Bulk Carrier,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-31,Iron Carrier 15,386403601,UK,Blocked,Bulk Carrier,Mumbai,N/A (Exempt/Diplomatic),Yes (Cape of Good Hope),1,0.9970784,1
+2026-05-31,Global Star 34,369408512,Iran,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.00150664,0
+2026-05-31,Red Spirit 36,559556395,Liberia,Taxed,LNG Carrier,Houston,Other Non-USD,No,0,0.0013826367,0
+2026-05-31,Eastern Titan 10,238114122,Russia,Privileged,Container Ship,Hidden/Private,N/A (Exempt/Diplomatic),No,0,0.0021333992,0
+2026-05-31,Golden Trader 56,287324253,Marshall Islands,Taxed,Crude Oil Tanker,Singapore,Other Non-USD,No,0,0.0013826367,0

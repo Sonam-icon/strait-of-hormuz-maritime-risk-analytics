@@ -1,0 +1,48 @@
+feature,importance
+cat__payment_rail_N/A (Exempt/Diplomatic),0.37671027
+cat__trade_tier_Blocked,0.19561936
+num__insurance_premium_delta_pct,0.16240421
+cat__trade_tier_Taxed,0.12026695
+cat__trade_tier_Privileged,0.09806081
+cat__payment_rail_Other Non-USD,0.028008487
+cat__destination_Hidden/Private,0.0048684096
+cat__flag_USA,0.0035236413
+cat__destination_Singapore,0.0033540092
+cat__commodity_LNG Carrier,0.0023654986
+cat__destination_Ningbo,0.0021927522
+num__estimated_cargo_value_usd,0.0011868448
+cat__continent_Europe,0.0006592035
+cat__flag_UK,0.00028604185
+cat__continent_Asia,0.00026664406
+cat__destination_Rotterdam,0.00010582438
+cat__destination_Mumbai,8.530771e-05
+num__ship_hull_value_usd,3.1018295e-05
+cat__commodity_Bulk Carrier,4.8515058e-06
+cat__flag_Panama,0.0
+cat__flag_Pakistan,0.0
+cat__flag_Norway,0.0
+cat__flag_Marshall Islands,0.0
+cat__flag_India,0.0
+cat__flag_Greece,0.0
+cat__flag_Germany,0.0
+cat__flag_China,0.0
+cat__flag_Liberia,0.0
+cat__flag_Israel,0.0
+cat__flag_Iraq,0.0
+cat__flag_Iran,0.0
+cat__destination_Houston,0.0
+cat__destination_Hidden,0.0
+cat__commodity_Various,0.0
+cat__destination_Global Port,0.0
+cat__commodity_Crude Oil Tanker,0.0
+cat__flag_Turkey,0.0
+cat__commodity_Container Ship,0.0
+cat__commodity_Crude Oil,0.0
+cat__flag_Russia,0.0
+cat__flag_UAE,0.0
+cat__payment_rail_Tether (USDT) / Yuan,0.0
+cat__payment_rail_Yuan (e-CNY/CIPS),0.0
+cat__continent_Africa,0.0
+cat__continent_Eurasia,0.0
+cat__continent_North America,0.0
+cat__continent_Oceania,0.0

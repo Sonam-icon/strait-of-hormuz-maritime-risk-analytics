@@ -1,0 +1,4 @@
+test,statistic,p_value,sample_note
+Welch t-test: Taxed vs Privileged transit cost,67.36722676888122,6.459456076038109e-277,Two-sided; unequal variances
+Mann-Whitney U: Taxed vs Privileged transit cost,393432.0,1.468987492727844e-208,Two-sided non-parametric test
+Chi-square: Trade tier vs rerouting,972.7887874332064,5.775622241991481e-212,Independence test

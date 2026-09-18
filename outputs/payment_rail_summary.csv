@@ -1,0 +1,5 @@
+payment_rail,records,reroute_rate,avg_transit_cost_usd,avg_delay_days,total_asset_risk_usd,reroute_rate_pct
+N/A (Exempt/Diplomatic),1468,0.4604904632152589,957894.4822888284,5.525885558583107,431460000000,46.049046321525886
+Other Non-USD,373,0.0,3590147.45308311,0.0,105100000000,0.0
+Tether (USDT) / Yuan,46,0.0,3271739.1304347827,0.0,10400000000,0.0
+Yuan (e-CNY/CIPS),3,0.0,3000000.0,0.0,480000000,0.0

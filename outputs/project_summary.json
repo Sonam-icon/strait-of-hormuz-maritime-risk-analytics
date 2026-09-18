@@ -1,0 +1,22 @@
+{
+  "records": 1890,
+  "date_start": "2026-03-01",
+  "date_end": "2026-05-31",
+  "unique_vessels": 342,
+  "trade_tiers": {
+    "Privileged": 676,
+    "Blocked": 632,
+    "Taxed": 582
+  },
+  "missing_naval_escort_rows": 1211,
+  "missing_inflation_premium_rows": 499,
+  "asset_formula_mismatches": 0,
+  "transit_cost_formula_mismatches": 0,
+  "welch_ttest_pvalue_taxed_vs_privileged": 6.459456076038109e-277,
+  "chi_square_pvalue_trade_tier_vs_reroute": 5.775622241991481e-212,
+  "xgb_test_roc_auc": 1.0,
+  "xgb_test_f1": 1.0,
+  "xgb_test_accuracy": 1.0,
+  "cost_z_anomalies": 3,
+  "isolation_forest_anomalies": 5
+}

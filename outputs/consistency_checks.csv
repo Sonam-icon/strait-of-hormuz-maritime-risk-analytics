@@ -1,0 +1,3 @@
+check,rows_with_difference
+asset_value = hull + cargo,0
+transit_cost = toll + insurance + reroute_penalty,0
