@@ -385,13 +385,3 @@ This keeps the analysis focused on measurable data rather than political conclus
 
 ---
 
-# Limitations
-
-1. The dataset is simulated rather than independently verified historical AIS/trade data.
-2. Results are dependent on the assumptions used to generate the simulation.
-3. Statistical significance does not establish causality.
-4. Perfect classification performance may indicate deterministic synthetic relationships.
-5. Missing values exist in some variables and must be handled carefully.
-6. The dataset should not be used to make real-world geopolitical forecasts.
-7. The project measures relationships within the supplied data rather than predicting actual future maritime behavior.
-
