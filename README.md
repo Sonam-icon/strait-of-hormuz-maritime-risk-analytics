@@ -89,43 +89,6 @@ Important variables include:
 
 ---
 
-# Reproducing the Analysis
-
-Because the raw dataset is not stored in this repository:
-
-### 1. Download the dataset
-
-Obtain the dataset from the original Kaggle source:
-
-https://www.kaggle.com/datasets/moaz1911/strait-of-hormuz-2026-the-great-decoupling
-
-### 2. Place the CSV here
-
-```text
-data/
-└── hormuz_trade_tier_continental_2026.csv
-```
-
-### 3. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Run the analysis
-
-```bash
-python src/hormuz_trade_analytics.py
-```
-
-The generated analysis tables and charts will be saved to:
-
-```text
-outputs/
-```
-
----
-
 # Project Architecture
 
 ```text
